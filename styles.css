@@ -1,0 +1,28 @@
+h1{
+    color:red;
+}
+
+h2{
+    color:purple;
+}
+
+#p1{
+    color:orange;
+}
+
+#p2 {
+    color: green; text-align: right;
+}
+
+.tacos {
+    font-size:36px;
+    color:blue
+}
+
+#baby{
+    height:200px
+}
+
+#father{
+    height:300px
+}
