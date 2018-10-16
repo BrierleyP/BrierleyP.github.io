@@ -1,28 +1,30 @@
-h1{
-    color:red;
+.jumbotron{background-color:rgb(204, 195, 250);
+    font-family: 'Indie Flower', cursive;
+    font-size: 70px;
 }
 
-h2{
-    color:purple;
+.btn-primary{background-color: rgba(233, 118, 233, 0.925);
+    border-block-end: rebeccapurple}
+
+.navbar-brand{font-family:'Indie Flower',cursive;}
+
+.boxed{background-color:rgb(248, 219, 255);
+    height: 800px;
+    padding: 10px 10px 10px 10px;
+    text-align: center;
 }
 
-#p1{
-    color:orange;
-}
+.navbar-collapse{font-family:'Indie Flower',cursive;}
 
-#p2 {
-    color: green; text-align: right;
-}
+.carousel-inner > .item > img {
+    width:120px;
+    height:60px;
+  }
 
-.tacos {
-    font-size:36px;
-    color:blue
-}
+.card{text-align: center}
 
-#baby{
-    height:200px
-}
+.alert{text-color:black;
+text-align: center}
 
-#father{
-    height:300px
-}
+h3{font-family: 'Indie Flower', cursive;
+font-size:40px}
